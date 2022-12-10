@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import { fetchEntries } from '@utils/contentfulPosts'
+import { fetchEntries } from '@utils/cmsPosts'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 import Post from '@components/Post'
