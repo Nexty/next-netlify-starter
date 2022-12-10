@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\components",
+    "\\pages",
+    "\\utils"
   ],
   "PreviewInSolutionExplorer": false
 }
